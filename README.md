@@ -24,7 +24,7 @@
    ![image 2](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D2.png)
 
   ### Deliverable 3: Summarize key pieces of the data.
-  ![image 3]()
+  ![image 3](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D3.png)
   
   ### Deliverable 4: Drill down into the data to analyze specific subsets.
   ![image 4]()
