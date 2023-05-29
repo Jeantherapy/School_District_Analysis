@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-  ###The purpose of this project is listed below:
+  ### The purpose of this project is listed below:
 *  Deliverable 1: Collect the student data into a DataFrame.
 
 * Deliverable 2: Prepare a cleaned version of the DataFrame.
