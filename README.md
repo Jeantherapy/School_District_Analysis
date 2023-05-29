@@ -18,7 +18,7 @@
 ### Deliverable 1: Collect the student data into a DataFrame.
 
   
-   ![image 1]()
+   ![image 1](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D1.png)
   
    ### Deliverable 2: Prepare a cleaned version of the DataFrame.
    ![image 2]()
