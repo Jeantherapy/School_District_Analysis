@@ -29,7 +29,7 @@
   ### Deliverable 4: Drill down into the data to analyze specific subsets.
   ![image 4](https://github.com/Jeantherapy/School_District_Analysis/blob/main/Starter_Code/Pictures/D4.png)
   ### Deliverable 5: Compare and contrast the data through grouping and aggregation functions.
-  ![image 5](https://github.com/Jeantherapy/School_District_Analysis/edit/main/Starter_Code/Resources/README.md#:~:text=D5.-,png,-Resources)
+  ![image 5](https://github.com/Jeantherapy/School_District_Analysis/blob/main/Starter_Code/Pictures/D5.png)
 
 **Summary
 ### Deliverable 6: A written analysis of your results 
