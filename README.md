@@ -21,7 +21,7 @@
    ![image 1](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D1.png)
   
    ### Deliverable 2: Prepare a cleaned version of the DataFrame.
-   ![image 2]()
+   ![image 2](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D2.png)
 
   ### Deliverable 3: Summarize key pieces of the data.
   ![image 3]()
